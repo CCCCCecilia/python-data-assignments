@@ -22,3 +22,12 @@ starting page:https://www.xiami.com/search?key=
 
 ## License
 CC 4.0
+
+## obstacles and solutions
+
+obstacle：Sometimes the host may reject the request from my application.
+
+solution：1）open the developer tool 
+          2) open the web site of [xiami]:https://www.xiami.com/ 
+          3) copy the curl of the current page into the [curl]:https://curl.trillworks.com/ 
+          4) replace the old headers with a new one.
