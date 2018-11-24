@@ -1,33 +1,8 @@
-# Xiami Dataset
+# Brief Introduction:
+***
+Jay Chou is a Taiwanese musician, singer, songwriter, record producer, film producer, actor, and director.In 2000, Chou released his debut album, titled Jay (2000). And so far, he has released dozens of albums and sold more than 30 million albums, which are widely welcomed in all ages in China.
 
-## Data Source                                                                                                                                                                             
+Do you Want to know the highest frequency words in Jay Chou's songs? 
+Which album is the most popular?
 
-This dataset contains the albums information and songs information of four most popular singers,周杰伦，林俊杰，陈奕迅，林宥嘉.
-
-starting page:https://www.xiami.com/search?key=
-
-## Data fields
-* `歌名` - String. e.g. `可爱女人`
-* `专辑名` - String. e.g. `Jay`
-* `歌词` - String. e.g. `想要有直升机 想要和你飞到宇宙去 想要和你融化在一起 融化在银河里 我每天每天每天在想想想想著你`
-* `演唱` - String. e.g. `周杰伦`
-* `作词` - String. e.g. `徐若瑄`
-* `作曲` - String. e.g. `周杰伦`
-* `编曲` - String. e.g. `周杰伦`
-* `分享树` - Int. e.g. `23869`
-* `评论数` - Int. e.g. `2263`
-
-## Data Volume
-879 rows 9 columns
-
-## License
-CC 4.0
-
-## obstacles and solutions
-
-obstacle：Sometimes the host may reject the request from my application.
-
-solution：1）open the developer tool 
-          2) open the web site of [xiami]:https://www.xiami.com/ 
-          3) copy the curl of the current page into the [curl]:https://curl.trillworks.com/ 
-          4) replace the old headers with a new one.
+Please read the report notebook [here](http://localhost:8888/notebooks/Documents/GitHub/python-data-assignments/assignment2/assignment2.ipynb).
