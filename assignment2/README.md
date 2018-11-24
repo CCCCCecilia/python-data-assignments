@@ -5,7 +5,7 @@ Jay Chou is a Taiwanese musician, singer, songwriter, record producer, film prod
 Do you Want to know the highest frequency words in Jay Chou's songs? 
 Which album is the most popular?
 
-Please read the report notebook [here](http://localhost:8888/notebooks/Documents/GitHub/python-data-assignments/assignment2/assignment2.ipynb).
+Please read the report notebook [here](https://nbviewer.jupyter.org/github/CCCCCecilia/python-data-assignments/blob/master/assignment2/A%20Brief%20Report%20About%20Jay%20Chou%27s%20Songs.ipynb).
 
 
 ## Data Analysis
