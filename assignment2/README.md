@@ -1,6 +1,5 @@
 # Brief Introduction:
 
-***
 Jay Chou is a Taiwanese musician, singer, songwriter, record producer, film producer, actor, and director.In 2000, Chou released his debut album, titled Jay (2000). And so far, he has released dozens of albums and sold more than 30 million albums, which are widely welcomed in all ages in China.
 
 Do you Want to know the highest frequency words in Jay Chou's songs? 
@@ -10,8 +9,6 @@ Please read the report notebook [here](http://localhost:8888/notebooks/Documents
 
 
 ## Data Analysis
-
-***
 
 ### Analysis Dimension
 
@@ -28,6 +25,5 @@ The visualization part could be better.
 
 ## License
 
-***
 cc 4.0
 
