@@ -21,6 +21,7 @@ Find any interesting trends/behaviors that we encounter when we analyze the data
 ### Limitations and Weakness
 
 Lack of semantic analysis.
+
 The visualization part could be better.
 
 ## License
